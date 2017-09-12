@@ -29,11 +29,11 @@
 
 ## Notebooks
 
-
+[Code Demonstration](https://github.com/commit-live-students/day06-linear-regression-101/blob/master/notebooks/Day06_demo.ipynb)
 
 ## Assignments
 
-
+[Gradient Descent implementation](https://github.com/commit-live-students/gradient-descent-python)
 
 ## Post Reads
 
